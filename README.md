@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Leone Jonathan 
 - 👀 I’m interested in IT development, Agile management, project management, web dev, front-end, back-end
-- 🌱 I’m currently learning Everything i can
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript,React,node and Java
+- 💞️ I’m looking for being Project Manager/owner or Scrum Master
+- 📫 How to reach me -> Jonathan.leone@epitech.eu
 
 <!---
 JLeoneEpitech/JLeoneEpitech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
